@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🚀 Road to Professional Developer
+Currently expanding my technical stack with a focus on Quality and AI:
+- **Testing:** Implementing `Pytest` for business logic validation.
+- **Cloud:** Preparing for `Microsoft Azure AI Fundamentals (AI-900)`.
+- **Machine Learning:** Enrolled in Andrew Ng's `Machine Learning Specialization`.
+- **Infrastructure:** Basic containerization with `Docker`.
+
 <!--
 **Barbara-Arnold/Barbara-Arnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
