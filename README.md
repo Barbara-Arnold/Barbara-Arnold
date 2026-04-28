@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🚀 Road to Professional Developer
+## 🚀 Data & AI Intern @ Telefónica | Aspiring Fintech Specialist
 Expanding my technical stack with a focus on Quality and AI:
 - **Currently working on Data BI & IA migrations at** `Telefónica` ☕-
 - **Testing:** Implementing `Pytest` for business logic validation.
